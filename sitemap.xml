@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://motta.xyz/link/index.html</loc>
+    
+    <lastmod>2020-07-04T10:07:58.675Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://motta.xyz/google583942a11941688c.html</loc>
     
     <lastmod>2020-07-04T05:48:40.810Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://motta.xyz/about/index.html</loc>
     
     <lastmod>2020-07-04T03:41:48.868Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://motta.xyz/link/index.html</loc>
-    
-    <lastmod>2020-07-04T03:36:58.236Z</lastmod>
     
   </url>
   

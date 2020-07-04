@@ -3843,23 +3843,6 @@ img {
   -ms-animation: rightsideOut 0.3s;
   animation: rightsideOut 0.3s;
 }
-#rightside > div > i,
-#rightside > div > a,
-#rightside > div > div {
-  display: block;
-  margin-bottom: 2px;
-  width: 36px;
-  height: 36px;
-  background-color: #49b1f5;
-  color: #fff;
-  text-align: center;
-  font-size: 16px;
-  line-height: 35px;
-  margin-bottom: 4px;
-  margin-right: 4px;
-  cursor: pointer;
-  border-radius: 3px;
-}
 #rightside > div > button,
 #rightside > div > a {
   display: block;
@@ -3871,6 +3854,7 @@ img {
   text-align: center;
   font-size: 16px;
   cursor: pointer;
+  border-radius: 3px;
 }
 #rightside > div > button:hover,
 #rightside > div > a:hover {

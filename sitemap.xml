@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://motta.xyz/about/index.html</loc>
+    
+    <lastmod>2020-07-04T03:41:48.868Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/link/index.html</loc>
+    
+    <lastmod>2020-07-04T03:36:58.236Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-07-04T03:36:20.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-07-04T03:34:58.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/hello-world.html</loc>
+    
+    <lastmod>2020-07-03T12:22:40.182Z</lastmod>
+    
+  </url>
+  
+</urlset>

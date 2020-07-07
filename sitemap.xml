@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://motta.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-07-07T15:15:48.493Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/link/index.html</loc>
+    
+    <lastmod>2020-07-07T15:15:28.089Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-07-07T15:15:09.489Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/about/index.html</loc>
+    
+    <lastmod>2020-07-07T15:14:18.053Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://motta.xyz/jieda1.html</loc>
     
     <lastmod>2020-07-07T14:56:51.225Z</lastmod>
@@ -58,37 +86,9 @@
   </url>
   
   <url>
-    <loc>http://motta.xyz/link/index.html</loc>
-    
-    <lastmod>2020-07-04T10:07:58.675Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://motta.xyz/google583942a11941688c.html</loc>
     
     <lastmod>2020-07-04T05:48:40.810Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://motta.xyz/about/index.html</loc>
-    
-    <lastmod>2020-07-04T03:41:48.868Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://motta.xyz/categories/index.html</loc>
-    
-    <lastmod>2020-07-04T03:36:20.932Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://motta.xyz/tags/index.html</loc>
-    
-    <lastmod>2020-07-04T03:34:58.492Z</lastmod>
     
   </url>
   

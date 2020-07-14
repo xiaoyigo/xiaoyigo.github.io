@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://motta.xyz/movies/index.html</loc>
+    
+    <lastmod>2020-07-14T04:30:40.730Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/jieda3.html</loc>
+    
+    <lastmod>2020-07-14T04:18:56.745Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/jieda2.html</loc>
+    
+    <lastmod>2020-07-14T04:18:36.493Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://motta.xyz/jieda1.html</loc>
+    
+    <lastmod>2020-07-14T04:18:10.493Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://motta.xyz/artitalk/index.html</loc>
     
     <lastmod>2020-07-13T05:02:07.482Z</lastmod>
@@ -40,27 +68,6 @@
     <loc>http://motta.xyz/jiaoluo1.html</loc>
     
     <lastmod>2020-07-08T16:20:11.526Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://motta.xyz/jieda2.html</loc>
-    
-    <lastmod>2020-07-08T15:33:12.070Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://motta.xyz/jieda3.html</loc>
-    
-    <lastmod>2020-07-08T15:33:03.866Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://motta.xyz/jieda1.html</loc>
-    
-    <lastmod>2020-07-08T15:24:40.566Z</lastmod>
     
   </url>
   
